@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First senerity app","Get all student","SUCCESS","2021-04-04T15:03:36.437+07:00[Asia/Bangkok]","0.0","2.96"
+"CRUD student","Get student list","SUCCESS","2021-04-04T17:16:54.075+07:00[Asia/Bangkok]","0.0","3.13"
+"CRUD student","Insert student","SUCCESS","2021-04-04T18:43:38.853+07:00[Asia/Bangkok]","0.0","5.25"

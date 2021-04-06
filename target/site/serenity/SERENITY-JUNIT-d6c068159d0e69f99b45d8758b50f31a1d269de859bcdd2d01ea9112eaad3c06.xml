@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="junit.CRUDStudent" skipped="0" tests="2" time="6.29" timestamp="2021-04-04 05:16:54"><testcase classname="junit.CRUDStudent" name="Get student list"/><testcase classname="junit.CRUDStudent" name="Insert student"/></testsuite>

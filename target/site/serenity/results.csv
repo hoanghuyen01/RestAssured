@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First senerity app","Get all student","SUCCESS","2021-04-04T15:03:36.437+07:00[Asia/Bangkok]","0.0","2.96"
+"First senerity app","This failling test","FAILURE","2021-04-04T15:03:39.433+07:00[Asia/Bangkok]","0.0","0.08"
+"First senerity app","This skip test","IGNORED","2021-04-04T15:03:39.524+07:00[Asia/Bangkok]","0.0","0.0"
+"First senerity app","This pending test","PENDING","2021-04-04T15:03:39.53+07:00[Asia/Bangkok]","0.0","0.0"
+"CRUD student","Get student list","SUCCESS","2021-04-04T17:16:54.075+07:00[Asia/Bangkok]","0.0","3.13"
+"CRUD student","Insert student","SUCCESS","2021-04-04T18:43:38.853+07:00[Asia/Bangkok]","0.0","5.25"
